@@ -2,7 +2,7 @@
 
 A simple and interactive calculator application built using React. This app supports basic arithmetic operations, percentage calculations, and toggling between positive and negative numbers.
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](public/screenshot.png)
 
 ## Features
 
@@ -17,7 +17,7 @@ A simple and interactive calculator application built using React. This app supp
 
 Ensure you have the following installed:
 
-- Node.js (https://nodejs.org/)
+- Node.js (https://nodejs.org)
 - npm (Node package manager, comes with Node.js)
 
 ### Installation
