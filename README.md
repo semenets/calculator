@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
     ```sh
     git clone https://github.com/semenets/calculator
-    cd calculator-app
+    cd calculator
     ```
 
 2. Install the dependencies:
